@@ -79,6 +79,18 @@ const Footer = () => {
           <p className="text-secondary font-rajdhani text-sm tracking-wide">
             © {new Date().getFullYear()} {clanInfo.name} Clan. All rights reserved.
           </p>
+          <p className="mt-2 text-secondary font-rajdhani text-sm tracking-wide">
+            Development By{' '}
+            <a
+              href="https://discord.com/users/1091478694108860536"
+              target="_blank"
+              rel="noopener noreferrer"
+              className="text-accent font-semibold underline underline-offset-2 hover:text-white transition-colors"
+              data-hoverable
+            >
+              DMAR
+            </a>
+          </p>
         </motion.div>
       </div>
     </footer>
