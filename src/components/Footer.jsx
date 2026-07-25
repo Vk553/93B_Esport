@@ -77,10 +77,10 @@ const Footer = () => {
           className="mt-8 pt-8 border-t border-accent/10 text-center"
         >
           <p className="text-secondary font-rajdhani text-sm tracking-wide">
-            © {new Date().getFullYear()} {clanInfo.name} Clan. All rights reserved.
+            © {new Date().getFullYear()} {clanInfo.name} Clan. All Rights Reserved.
           </p>
           <p className="mt-2 text-secondary font-rajdhani text-sm tracking-wide">
-            Development By{' '}
+            Designed & Developed By{' '}
             <a
               href="https://discord.com/users/1091478694108860536"
               target="_blank"
