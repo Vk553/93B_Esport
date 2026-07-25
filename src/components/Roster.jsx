@@ -16,6 +16,13 @@ const Roster = () => {
     medical: '/roles/medical.png',
   }
 
+  const roleLabels = {
+    attacker: 'ASSAULT',
+    engineering: 'ENGINEER',
+    sniper: 'RECON',
+    medical: 'SUPPORT',
+  }
+
   const managementRoles = [
     { key: 'igl', label: 'IGL' },
     { key: 'owner', label: 'OWNER' },
@@ -102,7 +109,7 @@ const Roster = () => {
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-4 gap-6">
             {Object.entries(roster).map(([role, members], index) => {
               const iconSrc = roleIcons[role]
-              const roleLabel = role.charAt(0).toUpperCase() + role.slice(1)
+              const roleLabel = roleLabels[role]
 
               return (
                 <motion.div
