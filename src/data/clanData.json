@@ -7,17 +7,17 @@
     "description": "93B - The Hard One. Born from the fires of competition, forged in tactical excellence. We are an elite eSports clan dedicated to dominating the Garena Delta Force battlefield through superior strategy, teamwork, and unwavering determination. Our philosophy is simple: adapt, overcome, and conquer. Every member is a specialist, every match is a mission, and victory is our only option."
   },
   "stats": {
-    "totalScrims": 77,
-    "wins": 73,
-    "losses": 1,
-    "draws": 3
+    "totalScrims": 163,
+    "wins": 150,
+    "losses": 13,
+    "draws": 6
   },
   "management": {
-    "igl": "ZNX",
-    "owner": "BN2",
-    "coOwner": "KROV",
-    "leader": "SAW",
-    "coLeader": "DMAR"
+    "igl": "ZNX / Vader",
+    "owner": "Benz",
+    "coOwner": "SAW",
+    "leader": "ZNX",
+    "coLeader": "DMAR / Vader"
   },
   "roster": {
     "attacker": ["ASH",
