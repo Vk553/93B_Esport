@@ -12,7 +12,7 @@ const Roster = () => {
   const roleIcons = {
     attacker: '/roles/attacker.png',
     engineering: '/roles/engineering.png',
-    recon: '/roles/sniper.png',
+    sniper: '/roles/sniper.png',
     medical: '/roles/medical.png',
   }
 
