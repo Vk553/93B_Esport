@@ -16,8 +16,8 @@
     "igl": { "name": "ZNX / VADER", "visible": 1 },
     "owner": { "name": "BENZ", "visible": 1 },
     "coOwner": { "name": "SAW", "visible": 1 },
-    "leader": { "name": "PlanSix", "visible": 1 },
-    "coLeader": { "name": "DMAR / VADER / KROV", "visible": 1 }
+    "leader": { "name": "ZNX", "visible": 1 },
+    "coLeader": { "name": "DMAR / VADER / KROV / PlanSix", "visible": 1 }
   },
   "managementOperation": {
     "igl": { "name": "3", "visible": 0 },
